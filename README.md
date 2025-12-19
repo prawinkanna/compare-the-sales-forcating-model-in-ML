@@ -1,3 +1,14 @@
+## 📂 Repository Structure
+- sales_forecasting_ml.py → Machine learning code
+- ML Forcast.png → Model comparison visualization
+- pk mini pro report.pdf → Detailed project report
+- README.md → Project documentation
+
+
+
+
+
+
 📊 A Comparative Analysis of Machine Learning Models for Sales Forecasting
 🔍 Project Overview
 
