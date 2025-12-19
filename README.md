@@ -1,3 +1,9 @@
+📌 This project is part of my Machine Learning / Data Science portfolio.
+
+
+pip install -r requirements.txt
+python sales_forecasting_ml.py
+
 ## 📂 Repository Structure
 - sales_forecasting_ml.py → Machine learning code
 - ML Forcast.png → Model comparison visualization
