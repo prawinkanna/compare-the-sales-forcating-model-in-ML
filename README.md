@@ -10,10 +10,11 @@ python sales_forecasting_ml.py
 - pk mini pro report.pdf → Detailed project report
 - README.md → Project documentation
 
+## 📊 Power BI Dashboard – Model Comparison
 
-
-
-
+A Power BI dashboard was created to visually compare the performance of multiple machine learning models for sales forecasting.  
+The dashboard highlights accuracy, error metrics, and identifies the best-performing model.
+![Dashboard Preview](ml-model-comparison-dashboard.png)
 
 📊 A Comparative Analysis of Machine Learning Models for Sales Forecasting
 🔍 Project Overview
